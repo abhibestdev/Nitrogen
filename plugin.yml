@@ -1,0 +1,11 @@
+name: Nitrogen
+author: abhi
+version: 1.0
+main: me.abhi.nitrogen.Nitrogen
+depend: [Hydrogen]
+commands:
+  setspawn:
+  spawn:
+  kits:
+  statistics:
+    aliases: [stats]
